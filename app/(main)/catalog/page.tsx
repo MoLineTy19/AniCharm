@@ -15,6 +15,7 @@ export default function Page() {
     const tags = [
         'Киберпанк', 'Пост-апакалипсис', 'Школьная жизнь', 'Путешествие во времени'
     ]
+
     const data: CardDetails[] = [
         {id: 1, title: 'Ван пис', genre: 'Фентези', rating: 9.8, description: 'Ep 1160 - AniLibria', imageUrl: '/card-preview.jpeg'},
         {id: 2, title: 'Ван пис', genre: 'Фентези', rating: 9.8, description: 'Ep 1160 - Sub', imageUrl: '/card-preview.jpeg'},
